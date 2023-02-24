@@ -10,10 +10,10 @@ OOP Graphing Calculator built in Processing 4
 [calculator.zip](https://github.com/SophieSchwankl/programmingportfolio/files/10758116/calculator.zip)
 
 
-### SpaceGame![Uploading spacegame.png…]()
+### SpaceGame
 
 Space Game biolt in Processing 4
-![Running Calculator]()
+![Running spaceGame](https://github.com/SophieSchwankl/programmingportfolio/blob/main/images/spacegame.png?raw=true)
 [spacegame.zip](https://github.com/SophieSchwankl/programmingportfolio/files/10827402/spacegame.zip)
 
 
