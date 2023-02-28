@@ -10,7 +10,6 @@ OOP Graphing Calculator built in Processing 4
 [calculator.zip](https://github.com/SophieSchwankl/programmingportfolio/tree/main/scr/calulator)
 
 
-
 ### SpaceGame
 
 Space Game biolt in Processing 4
@@ -19,6 +18,6 @@ Space Game biolt in Processing 4
 
 
 ### CarTester
-![Running Calculator]
+![Running Calculator](https://github.com/SophieSchwankl/programmingportfolio/blob/main/images/Screen%20Shot%202023-02-28%20at%209.37.41%20AM.png)
 [CarTester.zip](https://github.com/SophieSchwankl/programmingportfolio/files/10758187/CarTester.zip)
 
