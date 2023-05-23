@@ -2,6 +2,10 @@
 
 ## Processsing Projects
 
+### Snake Game 
+Snake Game built in Processing Python Mode 
+
+
 ### Calculator
 OOP Graphing Calculator built in Processing 4 
 
