@@ -18,8 +18,10 @@ link to Snake Game Projramming Group Project created in Processing Python mode: 
 
 #### End Screen 
 ![LoseScreen - Xuanthao T](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/Snake%20Clone/Images%20for%20Snake%20Clone/LostScreenXuan.png)
-[Snake_Man-Luca.zip][
-](https://github.com/LemScoot/Group-Project-for-Programming-2023/raw/main/src/Snake_Man-Luca.zip)### Calculator
+[Snake_Man-Luca.zip](https://github.com/LemScoot/Group-Project-for-Programming-2023/raw/main/src/Snake_Man-Luca.zip)
+
+
+### Calculator 
 OOP Graphing Calculator built in Processing 4 
 
 ![Running Calculator](https://github.com/SophieSchwankl/programmingportfolio/blob/main/images/Screen%20Shot%202023-02-24%20at%209.59.24%20AM.png?raw=true)
