@@ -6,7 +6,7 @@ Sophia Schwankl (contact info about any of my projects: sophia.v.schwankl@gmail.
 ### Snake Game 
 Snake Game built in Processing Python Mode 
 
-In my group project with Liam Scott, Lucas Jackson, Xuanthao Tran, Lilla Morrow, and Lauren(Ren) Barklow. I was the project manager, trying to tie together the graphics with the coding, but I ened up doing most of the programming in the end. 
+In my group project with Liam Scott, Lucas Jackson, Xuanthao Tran, Lilla Morrow, and Lauren(Ren) Barklow. I was the project manager, trying to tie together the graphics with the coding, but I ened up doing most of the programming in the end. We did also get help from Luca DalCanto who helped us find what our issue was with the code (with the move method of the food). 
 
 link to Snake Game Projramming Group Project created in Processing Python mode: https://github.com/LemScoot/Group-Project-for-Programming-2023
 
@@ -18,9 +18,8 @@ link to Snake Game Projramming Group Project created in Processing Python mode: 
 
 #### End Screen 
 ![LoseScreen - Xuanthao T](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/Snake%20Clone/Images%20for%20Snake%20Clone/LostScreenXuan.png)
-
-
-### Calculator
+[Snake_Man-Luca.zip][
+](https://github.com/LemScoot/Group-Project-for-Programming-2023/raw/main/src/Snake_Man-Luca.zip)### Calculator
 OOP Graphing Calculator built in Processing 4 
 
 ![Running Calculator](https://github.com/SophieSchwankl/programmingportfolio/blob/main/images/Screen%20Shot%202023-02-24%20at%209.59.24%20AM.png?raw=true)
