@@ -1,9 +1,23 @@
 # 2022-2023 Programming Projects
+Sophia Schwankl (contact info about any of my projects: sophia.v.schwankl@gmail.com)
 
-## Processsing Projects
+## 2022-2023 Programming Projects
 
 ### Snake Game 
 Snake Game built in Processing Python Mode 
+
+In my group project with Liam Scott, Lucas Jackson, Xuanthao Tran, Lilla Morrow, and Lauren(Ren) Barklow. I was the project manager, trying to tie together the graphics with the coding, but I ened up doing most of the programming in the end. 
+
+link to Snake Game Projramming Group Project created in Processing Python mode: https://github.com/LemScoot/Group-Project-for-Programming-2023
+
+#### Game StartScreen
+![StartScreen - Xuanthao T](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/Snake%20Clone/Images%20for%20Snake%20Clone/startscreen1Xuan.gif)
+
+#### Running Game
+![game](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/Snake%20Clone/Images%20for%20Snake%20Clone/Screen%20Shot%202023-05-25%20at%2010.04.12%20AM.png)
+
+#### End Screen 
+![LoseScreen - Xuanthao T](https://github.com/LemScoot/Group-Project-for-Programming-2023/blob/main/Snake%20Clone/Images%20for%20Snake%20Clone/LostScreenXuan.png)
 
 
 ### Calculator
